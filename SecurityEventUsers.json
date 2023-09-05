@@ -57,7 +57,8 @@
     "TransmittedServices": "-",
     "VirtualAccount": "%%1843",
     "WorkstationName": "benjamin-pc",
-    "PartitionKey": ""
+    "PartitionKey": "",
+    "Type": "SecurityEvent"
   },
   {
     "TenantId": "00000000-0000-0000-0000-000000000000",
